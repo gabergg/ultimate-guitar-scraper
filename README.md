@@ -4,7 +4,7 @@
 [![TravisCI Status](https://travis-ci.org/masterT/ultimate-guitar-scraper.svg?branch=master)](https://travis-ci.org/masterT/ultimate-guitar-scraper)
 [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
-> A scraper for http://www.ultimate-guitar.com
+> A scraper for https://www.ultimate-guitar.com
 
 > Rock and roll! 🎸 🎶 🤘🏻
 
