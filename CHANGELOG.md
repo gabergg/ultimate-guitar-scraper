@@ -1,3 +1,20 @@
+#### 1.1.0 (2018-10-28)
+
+- Fix scraper
+- Avoid the new ads page
+- Add capo, tuning and key (tonality) to TAB schema if present.
+
+Ex:
+
+```js
+  /* ... *//
+  capo: 2,
+  tonality: 'Am',
+  tuning: 'E A D G B E',
+  /* ... *//
+```
+
+
 #### 1.0.1 (2018-02-12)
 
 - Fix scraper and
