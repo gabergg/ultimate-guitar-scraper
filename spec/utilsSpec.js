@@ -19,7 +19,8 @@ describe('utils', () => {
         type: [ 300, 200 ],
         page: 1,
         search_type: 'title',
-        order: ''
+        order: '',
+        followRedirect: false
       })
     })
 
@@ -53,7 +54,8 @@ describe('utils', () => {
         ],
         page: 1,
         search_type: 'title',
-        order: ''
+        order: '',
+        followRedirect: false
       })
     })
   })

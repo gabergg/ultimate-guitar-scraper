@@ -196,6 +196,25 @@ Example:
 }
 ```
 
+If the tab contains data about capo, tuning, or key (tonality), it is also returned.
+
+Example:
+
+```js
+artist: 'Imagine Dragons',
+  name: 'Radioactive',
+  url: 'https://tabs.ultimate-guitar.com/tab/imagine_dragons/radioactive_chords_1171909',
+  rating: 4.86949,
+  numberRates: 11010,
+  type: 'Chords',
+  difficulty: 'novice',
+  capo: 2,
+  tonality: 'Am',
+  tuning: 'E A D G B E',
+  content:
+   { text: 'Note about strumming patterns: the intro of the song has a more uptempo feel,\nbut the main body of the song including the chorus is definitely at a slow tempo.\n\n[Intro]\n[ch]Am[/ch]  [ch]C[/ch]  [ch]G6[/ch]    x3\n[ch]Am[/ch]\n\n[Verse 1]\n[ch]Am[/ch]...'
+```
+
 
 ### `autocomplete(query, callback [, requestOptions])`
 

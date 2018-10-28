@@ -25,13 +25,12 @@
   "license": "MIT",
   "dependencies": {
     "cheerio": "^0.22.0",
-    "jasmine": "^2.6.0",
     "json5": "^0.5.1",
     "request": "^2.81.0"
   },
   "devDependencies": {
     "ajv": "^5.2.3",
-    "jasmine": "^2.5.3",
+    "jasmine": "^2.99.0",
     "standard": "^10.0.3"
   },
   "repository": {

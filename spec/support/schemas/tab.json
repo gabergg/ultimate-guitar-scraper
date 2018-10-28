@@ -35,6 +35,15 @@
         "advanced"
       ]
     },
+    "capo": {
+      "type": "string"
+    },
+    "tonality": {
+      "type": "string"
+    },
+    "tuning": {
+      "type": "string"
+    },
     "url": {
       "type": "string",
       "format": "uri"
